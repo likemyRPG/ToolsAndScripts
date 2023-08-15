@@ -87,3 +87,7 @@ $RECYCLE.BIN/
 
 # Sphinx documentation
 docs/_build/
+
+# txt and json files in the cookie_converter folder
+tools/cookie_converter/*.txt
+tools/cookie_converter/*.json
