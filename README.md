@@ -7,10 +7,7 @@ Welcome to the Toolset Repository, a curated collection of versatile tools desig
 1. [Introduction](#introduction)
 2. [Installation](#installation)
 3. [List of Tools](#list-of-tools)
-4. [Usage](#usage)
-    - [Cookie Converter](#cookie-converter)
-5. [Contribution](#contribution)
-6. [License](#license)
+4. [License](#license)
 
 ## Introduction
 
